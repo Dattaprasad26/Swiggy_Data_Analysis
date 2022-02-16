@@ -21,7 +21,16 @@
 # 📝Problem Statement
 Food industries are having important reflection of the economy from past few decades. In this project, we are analyzing the various aspects with different use cases which covers many aspects of Swiggy Food Delivery Service. It helps in not only understanding the meaningful relationships between attributes, but it also allows us to do our own research and come-up with our findings.
 
-The objective of the project is to perform an exploratory data analysis, data pre-processing, & data cleaning and at the end, apply different Data Visualization techniques to get the meaningful insight from the given data. This project aims apply some amazing Python Libraries such as Plotly and WordCloud which will give a boost to our visual understanding of the data.
+Analysis of the following is required by the Higher Management of Uber:
+
+    1. Distribution of 'Rating'.
+    2. Area-wise Analysis in terms of 'Rating' and 'Cost_for_Two (₹)' on BTM, HSR, & Koramangala Area.
+    3. Analyse "Approx Cost of 2 People" vs "Rating". Find out the relationship between them.
+    4. Analyze Affordable/Budgeted and Highest Rated Restaurants of Bangalore.
+    5. Top 15 Cheapest & Highest Rated Restaurants with Approx. Cost for 2 People.
+    6. Top 15 Expensive & Highest Rated Restaurants with Approx. Cost for 2 People.
+    7. Area-wise Cuisines Analysis & Distribution of Cuisines in BTM, HSR, & Koramangala (Bangalore) Restaurants.
+    8. Most preferred Cuisines by the Customers.
 
 # ⏳ Dataset
 Download the dataset for this project from following Link -
