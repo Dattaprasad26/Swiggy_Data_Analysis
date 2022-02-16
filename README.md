@@ -36,7 +36,7 @@ In the datasets we are provided with following columns (Features) of data.
 * Rating : Rating given by the Customers out of 5.
 * Cost_for_Two (₹) : Approx. Cost of Two people w.r.t. Restaurants.
 
-Out of the 26 features given in the datasets 15 are Continuous and 11 (including the target variable) are Categorical features.
+Out of the 5 features given in the datasets 2 are Continuous and 3 (including the target variable) are Categorical features.
 
 # 🎉 Approach (Architecture):
 ![Process Flow](https://user-images.githubusercontent.com/84115928/137479294-ccfa21f9-81e1-4de8-8f96-15ddefdec06e.JPG)
