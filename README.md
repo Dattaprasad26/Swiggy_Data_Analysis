@@ -60,7 +60,7 @@ Out of the 5 features given in the datasets 2 are Continuous and 3 (including th
 For more details, please go through the Demo given below -
 # 🎯 Swiggy Data Analysis Project Video -
 
-https://user-images.githubusercontent.com/84115928/154216195-1dd007ef-b444-4706-9aa5-b035ed1ab66d.mp4
+https://user-images.githubusercontent.com/84115928/154216541-ab894ba2-7760-47cc-89e2-5275dac3b643.mp4
 
 # 💡 Conclusions
 
