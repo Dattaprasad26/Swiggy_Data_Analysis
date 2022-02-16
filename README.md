@@ -55,7 +55,7 @@ Out of the 5 features given in the datasets 2 are Continuous and 3 (including th
 # 🌱 Some Exciting Glimpse of the Visuals:
 ![Glimpse 1](https://user-images.githubusercontent.com/84115928/154206516-055a61ba-cf80-48c9-bae5-1b0a98fae6c4.gif)
 ![Glimpse 2](https://user-images.githubusercontent.com/84115928/154207666-81d7b700-bfd1-4cd0-950c-f521e615ac0e.gif)
-![Glimpse 3](https://user-images.githubusercontent.com/84115928/154206548-00c8c802-ba37-46ed-8d6a-07cc3bff8ba5.png)
+![Glimpse 3](https://user-images.githubusercontent.com/84115928/154216904-325c33c5-bace-484b-b4d7-974a5146a3ca.png)
 
 For more details, please go through the Demo given below -
 # 🎯 Swiggy Data Analysis Project Video -
