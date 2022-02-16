@@ -21,7 +21,7 @@
 # 📝Problem Statement
 Food industries are having important reflection of the economy from past few decades. In this project, we are analyzing the various aspects with different use cases which covers many aspects of Swiggy Food Delivery Service. It helps in not only understanding the meaningful relationships between attributes, but it also allows us to do our own research and come-up with our findings.
 
-Analysis of the following is required by the Higher Management of Uber:
+Analysis of the following is performed in this Project:
 
     1. Distribution of 'Rating'.
     2. Area-wise Analysis in terms of 'Rating' and 'Cost_for_Two (₹)' on BTM, HSR, & Koramangala Area.
@@ -31,6 +31,8 @@ Analysis of the following is required by the Higher Management of Uber:
     6. Top 15 Expensive & Highest Rated Restaurants with Approx. Cost for 2 People.
     7. Area-wise Cuisines Analysis & Distribution of Cuisines in BTM, HSR, & Koramangala (Bangalore) Restaurants.
     8. Most preferred Cuisines by the Customers.
+
+And many more!!
 
 # ⏳ Dataset
 Download the dataset for this project from following Link -
