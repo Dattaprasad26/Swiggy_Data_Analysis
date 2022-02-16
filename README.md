@@ -1,6 +1,4 @@
 
-# Swiggy Data Analysis Project - (Online Food Ordering & Delivery Platform) 🔥🍁
-
 # Swiggy Data Analysis Project - (Online Food Delivery Platform) 🔥🍁
 
 <p align="center">
@@ -66,7 +64,12 @@ Out of the 5 features given in the datasets 2 are Continuous and 3 (including th
 # 🌱 Some Exciting Glimpse of the Visuals:
 ![Glimpse 1](https://user-images.githubusercontent.com/84115928/154206516-055a61ba-cf80-48c9-bae5-1b0a98fae6c4.gif)
 ![Glimpse 2](https://user-images.githubusercontent.com/84115928/154207666-81d7b700-bfd1-4cd0-950c-f521e615ac0e.gif)
-![Glimpse 3](https://user-images.githubusercontent.com/84115928/154216904-325c33c5-bace-484b-b4d7-974a5146a3ca.png)
+
+<p align="center">
+  <img height="450" src="https://user-images.githubusercontent.com/84115928/154216904-325c33c5-bace-484b-b4d7-974a5146a3ca.png">
+</p>
+
+<!-- ![Glimpse 3](https://user-images.githubusercontent.com/84115928/154216904-325c33c5-bace-484b-b4d7-974a5146a3ca.png) -->
 
 For more details, please go through the Demo given below -
 # 🎯 Swiggy Data Analysis Project Video -
@@ -93,7 +96,7 @@ https://user-images.githubusercontent.com/84115928/154216541-ab894ba2-7760-47cc-
     •	In Koramangala Area, "Chinese" Cuisines are dominated by around '10.3%' followed by "North Indian" & "South Indian" Cuisines '9.66%' & '7.59%' Restaurants respectively.
     •	Furthermore, we have also been analyzed Cheapest/Expensive & Highest Rated Restaurants with Approx. Cost for 2 People and many more. 
 
-Please Go through [Swiggy Data Analysis - DPR.pptx](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/files/8077260/Swiggy.Data.Analysis.-.DPR.pptx) for more info.
+Please Go through [Swiggy Data Analysis - DPR.pdf](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/blob/3e6d8f8833cec8b6d366c1fed86ec3f453f36757/Documents/Swiggy%20Data%20Analysis%20-%20DPR.pdf) for more info.
 
 # 📖 Documentation
 
@@ -105,7 +108,7 @@ Please Go through [Swiggy Data Analysis - DPR.pptx](https://github.com/Lokesh-At
 
 [WireFrame](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/blob/05d0091a03a0d8b6467df1be21c91af1ac626ad8/Documents/Swiggy%20Data%20Analysis%20-%20Wireframe.pdf)
 
-[Detail Project Report](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/files/8077260/Swiggy.Data.Analysis.-.DPR.pptx)
+[Detail Project Report](https://github.com/Lokesh-Attarde/Swiggy_Data_Analysis/blob/3e6d8f8833cec8b6d366c1fed86ec3f453f36757/Documents/Swiggy%20Data%20Analysis%20-%20DPR.pdf)
 
 # 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap.
