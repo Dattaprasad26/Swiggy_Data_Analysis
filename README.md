@@ -69,8 +69,6 @@ Out of the 5 features given in the datasets 2 are Continuous and 3 (including th
   <img height="450" src="https://user-images.githubusercontent.com/84115928/154216904-325c33c5-bace-484b-b4d7-974a5146a3ca.png">
 </p>
 
-<!-- ![Glimpse 3](https://user-images.githubusercontent.com/84115928/154216904-325c33c5-bace-484b-b4d7-974a5146a3ca.png) -->
-
 For more details, please go through the Demo given below -
 # 🎯 Swiggy Data Analysis Project Video -
 
